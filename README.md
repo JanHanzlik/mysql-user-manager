@@ -93,6 +93,7 @@ The application supports these environment variables:
 |    DB_USE    |   root    |  
 | DB_PASSWORD  | 	heslo123 | 
 |   DB_NAME    | 	testlab  |  
+
 Example:             
 
 ```bash
