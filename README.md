@@ -86,13 +86,13 @@ CREATE TABLE users (
 
 The application supports these environment variables:
 
-|   Variable   |  Default  |
-|:------------:|:---------:|
-|   DB_HOST    | localhost |
-|   DB_PORT    |   3306    |  
-|    DB_USE    |   root    |  
-| DB_PASSWORD  | 	heslo123 | 
-|   DB_NAME    | 	testlab  |  
+|   Variable   |  Default     |
+|:------------:|:------------:|
+|   DB_HOST    |   localhost  |
+|   DB_PORT    |     3306     |  
+|    DB_USE    |     root     |  
+| DB_PASSWORD  | 	password123 | 
+|   DB_NAME    | 	  testlab   |  
 
 Example:             
 
